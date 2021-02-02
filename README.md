@@ -1,2 +1,1 @@
-# homework3-2021
-CSS Grid homework
+# hw3-2020
